@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API\\Controllers",
+    "\\API\\Exceptions",
+    "\\API\\Requests",
+    "\\Application",
+    "\\Application\\Todos",
+    "\\Application\\Todos\\Commands",
+    "\\Application\\Todos\\Commands\\CreateTodo"
+  ],
+  "SelectedNode": "\\Application\\Todos\\Commands\\CreateTodo\\CreateTodoCommandHandler.cs",
+  "PreviewInSolutionExplorer": false
+}
